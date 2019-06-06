@@ -1,2 +1,2 @@
-# Shop_Lana
-ShopLana
+# Shop
+Shop
